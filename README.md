@@ -55,7 +55,7 @@ O sistema segue uma arquitetura cliente-servidor distribuída e é dividido entr
    - Compile os ficheiros `ConsultasServer.java`, `ConsultasInterface.java` e `Consultas.java`.
    - Execute o servidor utilizando o comando:
      ```bash
-     java ConsultasServer <IP> <porta>
+     java ConsultasServer <porta_rmi>
      ```
 
 2. **Servidor FrontEnd:**
