@@ -1,0 +1,12 @@
+ClinicaA,Clinica Geral,Dr. Joao Silva;Dr. Pedro Ferreira;Dr. Miguel Costa;Dr. Rui Martins;Dr. Carlos Oliveira;Dr. Jose Santos;Dr. Paulo Almeida;Dr. Tiago Rodrigues;Dr. Francisco Pereira;Dr. Antonio Carvalho
+ClinicaA,Pediatria,Dr. Maria Silva;Dr. Ana Ferreira;Dr. Catarina Costa;Dr. Sofia Martins;Dr. Paula Oliveira
+ClinicaA,Cardiologia,Dr. Luis Santos
+ClinicaA,Ginecologia,Dra. Ines Pereira;Dra. Beatriz Rodrigues
+ClinicaB,Clinica Geral,Dr. Jose Pinto;Dr. Ricardo Almeida;Dr. Pedro Gomes;Dr. Miguel Santos;Dr. Antonio Costa
+ClinicaB,Ginecologia,Dra. Marta Carvalho
+ClinicaB,Hematologia,Dr. Francisco Lima
+ClinicaC,Medicina Tropical,Dr. Rui Almeida
+ClinicaC,Neurologia,Dr. Luis Martins
+ClinicaD,Oftalmologia,Dr. Joao Sousa;Dr. Hugo Silva
+ClinicaD,Oncologia,Dr. Tiago Costa;Dr. Daniel Pereira;Dr. Bruno Almeida
+ClinicaD,Otorrinolaringologia,Dr. Eduardo Lima
